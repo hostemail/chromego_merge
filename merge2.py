@@ -35,9 +35,12 @@ def get_physical_location(address):
     response = requests.get(url)
     if response.status_code == 200:
         data = response.json()
-        country = data['country_name']
-        city = data['city_name']
+        country = data['country']
+        city = data['city']
+        isp = data['isp']
         #return f"{country}_{city}"
+        if not country:
+            country = data['isp']
         return f"{country}"
     else:
         print(f"Error: {response.status_code}")
