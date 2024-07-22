@@ -1510,7 +1510,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: United States_vmess_0100
+- name: None_vmess_0100
   type: vmess
   server: skk.moe
   port: 2086
@@ -2445,35 +2445,35 @@ proxies:
   - h3
 - name: United States_hy2_0
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
 - name: United States_hy2_1
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
 - name: United States_hy2_2
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
 - name: United States_hy2_3
   type: hysteria2
-  server: hy2.3124845.xyz
+  server: hy3.3124845.xyz
   port: 443
   password: dongtaiwang.com
   fast-open: true
-  sni: hy2.3124845.xyz
+  sni: hy3.3124845.xyz
   skip-cert-verify: false
 - name: France_reality_0
   type: vless
@@ -2594,7 +2594,7 @@ proxy-groups:
   - United States_vmess_097
   - None_vmess_098
   - None_vmess_099
-  - United States_vmess_0100
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
@@ -2767,7 +2767,7 @@ proxy-groups:
   - United States_vmess_097
   - None_vmess_098
   - None_vmess_099
-  - United States_vmess_0100
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
