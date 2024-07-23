@@ -1436,7 +1436,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None_vmess_094
+- name: United States_vmess_094
   type: vmess
   server: icook.tw
   port: 2086
@@ -1511,7 +1511,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip1.1789034.xyz
-- name: None_vmess_099
+- name: United States_vmess_099
   type: vmess
   server: singapore.com
   port: 2086
@@ -2405,51 +2405,51 @@ proxies:
       Host: ip5-10.freegradely.xyz
 - name: United States_hy_0
   type: hysteria
-  server: 208.87.243.123
-  port: 31476
-  ports: 31476
+  server: 38.135.52.192
+  port: 23456
+  ports: 23456
   auth_str: dongtaiwang.com
   up: 80
   down: 100
   fast-open: true
   protocol: udp
-  sni: wechat.com
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
 - name: United States_hy_1
   type: hysteria
-  server: 208.87.243.123
-  port: 31476
-  ports: 31476
+  server: 38.135.52.192
+  port: 23456
+  ports: 23456
   auth_str: dongtaiwang.com
   up: 80
   down: 100
   fast-open: true
   protocol: udp
-  sni: wechat.com
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
 - name: United States_hy_2
   type: hysteria
-  server: 208.87.243.123
-  port: 31476
-  ports: 31476
+  server: 38.135.52.192
+  port: 23456
+  ports: 23456
   auth_str: dongtaiwang.com
   up: 80
   down: 100
   fast-open: true
   protocol: udp
-  sni: wechat.com
+  sni: bing.com
   skip-cert-verify: true
   alpn:
   - h3
 - name: United States_hy_3
   type: hysteria
-  server: 166.1.18.52
-  port: 10295
-  ports: 20000-30000
+  server: 38.135.52.192
+  port: 23456
+  ports: 23456
   auth_str: dongtaiwang.com
   up: 80
   down: 100
@@ -2619,12 +2619,12 @@ proxy-groups:
   - United States_vmess_091
   - None_vmess_092
   - Canada_vmess_093
-  - None_vmess_094
+  - United States_vmess_094
   - United States_vmess_095
   - None_vmess_096
   - United States_vmess_097
   - None_vmess_098
-  - None_vmess_099
+  - United States_vmess_099
   - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
@@ -2789,12 +2789,12 @@ proxy-groups:
   - United States_vmess_091
   - None_vmess_092
   - Canada_vmess_093
-  - None_vmess_094
+  - United States_vmess_094
   - United States_vmess_095
   - None_vmess_096
   - United States_vmess_097
   - None_vmess_098
-  - None_vmess_099
+  - United States_vmess_099
   - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
@@ -2959,12 +2959,12 @@ proxy-groups:
   - United States_vmess_091
   - None_vmess_092
   - Canada_vmess_093
-  - None_vmess_094
+  - United States_vmess_094
   - United States_vmess_095
   - None_vmess_096
   - United States_vmess_097
   - None_vmess_098
-  - None_vmess_099
+  - United States_vmess_099
   - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
