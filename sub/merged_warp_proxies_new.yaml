@@ -1526,7 +1526,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip11.6016725.xyz
-- name: United States_vmess_0100
+- name: None_vmess_0100
   type: vmess
   server: skk.moe
   port: 2095
@@ -3068,7 +3068,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip16.6929198.xyz
-- name: None_vmess_297
+- name: United States_vmess_297
   type: vmess
   server: malaysia.com
   port: 2082
@@ -3083,7 +3083,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip16.6929198.xyz
-- name: United States_vmess_298
+- name: None_vmess_298
   type: vmess
   server: russia.com
   port: 2082
@@ -3623,7 +3623,7 @@ proxy-groups:
   - None_vmess_097
   - None_vmess_098
   - None_vmess_099
-  - United States_vmess_0100
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
@@ -3725,8 +3725,8 @@ proxy-groups:
   - None_vmess_294
   - None_vmess_295
   - None_vmess_296
-  - None_vmess_297
-  - United States_vmess_298
+  - United States_vmess_297
+  - None_vmess_298
   - None_vmess_299
   - United States_vmess_2100
   - None_vmess_2101
@@ -3856,7 +3856,7 @@ proxy-groups:
   - None_vmess_097
   - None_vmess_098
   - None_vmess_099
-  - United States_vmess_0100
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
@@ -3958,8 +3958,8 @@ proxy-groups:
   - None_vmess_294
   - None_vmess_295
   - None_vmess_296
-  - None_vmess_297
-  - United States_vmess_298
+  - United States_vmess_297
+  - None_vmess_298
   - None_vmess_299
   - United States_vmess_2100
   - None_vmess_2101
@@ -4089,7 +4089,7 @@ proxy-groups:
   - None_vmess_097
   - None_vmess_098
   - None_vmess_099
-  - United States_vmess_0100
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
@@ -4191,8 +4191,8 @@ proxy-groups:
   - None_vmess_294
   - None_vmess_295
   - None_vmess_296
-  - None_vmess_297
-  - United States_vmess_298
+  - United States_vmess_297
+  - None_vmess_298
   - None_vmess_299
   - United States_vmess_2100
   - None_vmess_2101
