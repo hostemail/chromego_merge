@@ -1495,7 +1495,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip12.6016725.xyz
-- name: United States_vmess_099
+- name: None_vmess_099
   type: vmess
   server: singapore.com
   port: 2095
@@ -1510,7 +1510,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip12.6016725.xyz
-- name: United States_vmess_0100
+- name: None_vmess_0100
   type: vmess
   server: skk.moe
   port: 2095
@@ -3007,7 +3007,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip16.6929198.xyz
-- name: United States_vmess_294
+- name: None_vmess_294
   type: vmess
   server: icook.tw
   port: 2082
@@ -3052,7 +3052,7 @@ proxies:
     path: github.com/Alvin9999
     headers:
       Host: ip16.6929198.xyz
-- name: None_vmess_297
+- name: United States_vmess_297
   type: vmess
   server: malaysia.com
   port: 2082
@@ -3463,10 +3463,10 @@ proxies:
   fast-open: true
   sni: www.bing.com
   skip-cert-verify: true
-- name: Russia_hy2_1
+- name: Netherlands_hy2_1
   type: hysteria2
-  server: 185.22.152.93
-  port: 47382
+  server: 163.172.220.28
+  port: 11622
   password: dongtaiwang.com
   fast-open: true
   sni: www.bing.com
@@ -3591,8 +3591,8 @@ proxy-groups:
   - None_vmess_096
   - None_vmess_097
   - None_vmess_098
-  - United States_vmess_099
-  - United States_vmess_0100
+  - None_vmess_099
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
@@ -3691,10 +3691,10 @@ proxy-groups:
   - United States_vmess_291
   - None_vmess_292
   - Canada_vmess_293
-  - United States_vmess_294
+  - None_vmess_294
   - None_vmess_295
   - None_vmess_296
-  - None_vmess_297
+  - United States_vmess_297
   - None_vmess_298
   - None_vmess_299
   - United States_vmess_2100
@@ -3720,7 +3720,7 @@ proxy-groups:
   - Russia_hy_2
   - Russia_hy_3
   - Russia_hy2_0
-  - Russia_hy2_1
+  - Netherlands_hy2_1
   - Russia_hy2_2
   - Russia_hy2_3
 - name: 自动选择
@@ -3827,8 +3827,8 @@ proxy-groups:
   - None_vmess_096
   - None_vmess_097
   - None_vmess_098
-  - United States_vmess_099
-  - United States_vmess_0100
+  - None_vmess_099
+  - None_vmess_0100
   - None_vmess_0101
   - None_vmess_11
   - None_vmess_12
@@ -3927,10 +3927,10 @@ proxy-groups:
   - United States_vmess_291
   - None_vmess_292
   - Canada_vmess_293
-  - United States_vmess_294
+  - None_vmess_294
   - None_vmess_295
   - None_vmess_296
-  - None_vmess_297
+  - United States_vmess_297
   - None_vmess_298
   - None_vmess_299
   - United States_vmess_2100
@@ -3956,7 +3956,7 @@ proxy-groups:
   - Russia_hy_2
   - Russia_hy_3
   - Russia_hy2_0
-  - Russia_hy2_1
+  - Netherlands_hy2_1
   - Russia_hy2_2
   - Russia_hy2_3
 rules:
